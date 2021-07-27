@@ -1,0 +1,47 @@
+.links {
+    display: flex;
+    flex-direction: row;
+    margin-top:4vh;
+    margin-bottom:4vh;
+}
+
+a {
+    margin-right: 3vh;
+    color: black;
+    font-size: 30px;
+}
+
+a:visited {
+    color: black;
+}
+
+.image {
+    height: 400px;
+}
+
+body {
+    margin-left: 5vw;
+}
+
+.text {
+    width: 50vw;
+}
+
+.link-wikipedia{
+    margin-top: 3vh;
+    font-size: 20px  !important;
+}
+
+.gallery {
+    display: flex;
+    flex-direction: row;
+    width: 60vw;
+    flex-wrap: wrap;
+}
+
+
+.gallery-image {
+    height: 70vh;
+    margin-right: 5vh;
+    margin-bottom: 5vh;
+}
